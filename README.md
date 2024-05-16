@@ -110,7 +110,7 @@ dotnet run --project Tracking
 To run all the tests, use the following command:
 ```bash
 dotnet test
-
+```
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
