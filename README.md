@@ -119,6 +119,3 @@ Contributions are welcome! Please feel free to submit a pull request.
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
-
-For any inquiries or feedback, please contact Lino Khan, (mailto:linokhan1@gmail.com).
